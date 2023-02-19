@@ -2,9 +2,9 @@
 Send me a message to invite me for a new business experience! 😉🤖
 #
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas-burda&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lukas-burda/github-readme-stats)
-</div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas-burda&show_icons=true&theme=dracula)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lukas-burda/github-readme-stats)
+
 
 
