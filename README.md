@@ -1,5 +1,5 @@
 Hi!
-I'm a Brazillian guy that looks for the technologies future overall. Hardware? software? Both integrated... I love everything!
+I'm a Brazillian guy that looks for the technologies future overall. Hardware? Software? Both integrated!!! I love everything!
 ### Send me a a invite for a new business experience! <img align="center" alt="Csharp" height="30" width="40" src="https://icongr.am/octicons/bell-fill.svg?size=128&color=ffffff">
 <div>
     <img alt="pic" height="128" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C5603AQGnq4mFfwW-0w/profile-displayphoto-shrink_800_800/0/1647869437557?e=1682553600&v=beta&t=q4DB3RrgK2EZYUKck8OIhuUcVLSDWvhllL9IzFVubDA">
