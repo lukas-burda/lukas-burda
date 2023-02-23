@@ -21,5 +21,5 @@ I'm a Brazillian guy that looks for the technologies future overall. Hardware? S
   <img align="center" alt="Csharp" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=00bfff">
   <img align="center" alt="Csharp" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Csharp" height="30" width="40" src="https://icongr.am/devicon/docker-plain-wordmark.svg?size=128&color=00bfff">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/29/29594.png">
 </div>
