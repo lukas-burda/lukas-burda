@@ -2,8 +2,10 @@ Hi!
 I'm a Brazillian guy that looks for the technologies future overall. Hardware? Software? Both integrated!!! I love everything!
 ### Send me a invite for a new business experience! <img align="center" alt="Csharp" height="30" width="40" src="https://icongr.am/octicons/bell-fill.svg?size=128&color=ffffff">
 <div>
-  <a href = "mailto:lukasburdaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lukasburdalongo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<div>
+  <a href = "mailto:lukasburdaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas-burda&show_icons=true&theme=dracula)
