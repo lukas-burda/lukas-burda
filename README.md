@@ -34,7 +34,6 @@ interests:
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-  <img align="center" alt="JUnit" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_5b9d2c5176ad8f918a0ad84241ab9673/junit.png">
 </div>
 
 
