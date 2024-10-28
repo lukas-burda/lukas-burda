@@ -3,14 +3,25 @@
 I'm **Lukas Burda Longo**, a Brazilian developer who loves exploring the future of technology! From hardware to software, or both integrated—I’m passionate about everything that helps us build the next generation of experiences.
 
 ### 💼 Open to new opportunities
-Let's connect and see what we can build together! <img align="center" alt="Csharp" height="30" width="40" src="https://icongr.am/octicons/bell-fill.svg?size=128&color=ffffff">
+Let's connect and see what we can build together!
+
+### 🚀 A Little More About Me...
+```yaml
+name: Lukas Burda Longo
+based_in: Brazil 🇧🇷
+interests:
+  - Full-stack development
+  - Technology integration
+  - Collaborative projects
+  - Continuous learning
+```
 
 <div>
   <a href="https://www.linkedin.com/in/lukasburdalongo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lukasburdaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-burda&layout=compact)](https://github.com/lukas-burda/github-readme-stats)=
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-burda&layout=compact)](https://github.com/lukas-burda/github-readme-stats)
 
 ### 🧰 Technologies & Tools
 <div style="display: inline_block">
@@ -39,13 +50,3 @@ Let's connect and see what we can build together! <img align="center" alt="Cshar
 </div>
 
 ---
-
-### 🚀 A Little More About Me...
-```yaml
-name: Lukas Burda Longo
-based_in: Brazil 🇧🇷
-interests:
-  - Full-stack development
-  - Technology integration
-  - Collaborative projects
-  - Continuous learning
