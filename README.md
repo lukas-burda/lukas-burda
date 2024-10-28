@@ -6,9 +6,9 @@ I'm a Brazillian guy that looks for the technologies future overall. Hardware? S
   <a href = "mailto:lukasburdaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lukas-burda/github-readme-stats)
- </div>
+ [![Top Langs]<div>
+    (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ </div>](https://github.com/lukas-burda/github-readme-stats)
 
  <div>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas-burda&show_icons=true&theme=dracula)
