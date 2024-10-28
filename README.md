@@ -24,7 +24,6 @@ interests:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-burda&layout=compact)](https://github.com/lukas-burda/github-readme-stats)
 
 ### 🧰 Technologies & Tools
-### 🧰 Technologies & Tools
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
