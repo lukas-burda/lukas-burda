@@ -2,7 +2,7 @@
 
 I'm **Lukas Burda Longo**, a Brazilian developer who loves exploring the future of technology! From hardware to software, or both integrated—I’m passionate about everything that helps us build the next generation of experiences.
 
-### 💼 Open to new opportunities
+### 💼 Have the best idea for an project?
 Let's connect and see what we can build together!
 
 ### 🚀 A Little More About Me...
