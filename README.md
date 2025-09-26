@@ -25,6 +25,9 @@ interests:
 ### 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-burda&layout=compact)](https://github.com/lukas-burda/github-readme-stats)
+  
   [![Lukas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas-burda&show_icons=true&theme=dracula)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-burda&layout=compact&theme=dracula)](https://github.com/lukas-burda/github-readme-stats)
+  
 </div>
